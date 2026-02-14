@@ -1,0 +1,54 @@
+body{
+ font: 76%;
+}
+
+p{
+ margin: 0 10px 10px;
+}
+
+a{
+ padding: 5px;
+ text-decoration: none;
+ color: #000000;
+}
+
+.header{
+ background-color: #FADFD7;
+}
+
+.header h1{
+ height: 18px;
+ line-height: 18px;
+ margin: 0;
+ padding-left: 10px;
+}
+
+.container{
+ text-align: left;
+}
+
+.content p{
+ line-height: 1.4;
+ float: left;
+}
+
+.navigation{
+ background: #FADFD7;
+}
+
+.navigation ul{
+ margin: 15px 0;
+ padding: 0;
+ list-style-type: none;
+}
+
+.navigation li{
+ margin-bottom: 5px;
+}
+
+#content {
+  background: #FADFD7;
+  width: 100%;
+  height: auto;
+  text-align: justify;
+}
